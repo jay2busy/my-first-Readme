@@ -3,21 +3,20 @@
 ## Description 
 It is used by webisites or application to manage users by allowing new individuals to register for an account by providing existing user a way to log in security using unique credentials.
 
-###Installion Instructions.
+## Installion Instructions.
 No installation needed, only HTML, PHP and CSS.
 
-###Usage 
+## Usage 
 You can read this README and use it as a template for future projects.
 
 ## License 
 This project is licensed under MIT License.
  -
- ##Author
+ ## Author
  **jay2busy**
-
- + Example
- + '''HTML
- + <!--registration-->
+- Example
+- '''HTML
+- <!--registration-->
 
     </div>
     <div class="form-box register">
